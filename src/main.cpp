@@ -9,6 +9,6 @@ void setup()
 
 void loop() 
 {
-  Serial.write("Hello world.");
+  Serial.write("Hello world.\r\n");
   delay(1000);
 }
